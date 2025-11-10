@@ -1,4 +1,4 @@
-# 🏕️ kurin’ — місце, де українські ігри говорять твоєю мовою
+# <img width="25" height="25" alt="icon" src="https://github.com/user-attachments/assets/16df8440-7d25-4a67-aee4-4e259b44248c" /> kurin’ — місце, де українські ігри говорять твоєю мовою
 
 [![GitHub release](https://img.shields.io/github/v/release/GGL-git/Kurin?style=for-the-badge)](https://github.com/GGL-git/Kurin/releases/latest)
 [![GitHub all releases](https://img.shields.io/github/downloads/GGL-git/Kurin/total?style=for-the-badge&color=00B000)](https://github.com/GGL-git/Kurin/releases/)
