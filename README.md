@@ -2,6 +2,8 @@
 
 [![GitHub release](https://img.shields.io/github/v/release/GGL-git/Kurin?style=for-the-badge)](https://github.com/GGL-git/Kurin/releases/latest)
 [![GitHub all releases](https://img.shields.io/github/downloads/GGL-git/Kurin/total?style=for-the-badge&color=00B000)](https://github.com/GGL-git/Kurin/releases/)
+![Static Badge](https://img.shields.io/badge/total_games-263-blue?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2FGGL-git%2FKurin%2Fblob%2Fmain%2FGAME%2520LIST.txt)
+
 
 [Пряме завантаження (клацни на мене і почнеться завантаження)](https://github.com/GGL-git/Kurin/releases/latest)
 
