@@ -5,7 +5,7 @@
 [![Static Badge](https://img.shields.io/badge/total_games-263-blue?style=for-the-badge&label=Кількість%20ігор)](https://github.com/GGL-git/Kurin/blob/main/GAME%20LIST.txt)
 
 
-[Пряме завантаження (клацни на мене і почнеться завантаження)](https://github.com/GGL-git/Kurin/releases/latest)
+[Пряме завантаження (клацни на мене і почнеться завантаження)](https://github.com/GGL-git/Kurin/releases/download/v1.0.3/Kurin.-1.0.3.Setup.exe)
 
 kurin’ використовує такі технології:  
 [![Electron](https://img.shields.io/badge/Electron-4078c0?style=for-the-badge&logo=electron&labelColor=gray)](https://www.electronjs.org/)
