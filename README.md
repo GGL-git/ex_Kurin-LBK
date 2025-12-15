@@ -2,7 +2,7 @@
 
 [![GitHub release](https://img.shields.io/github/v/release/GGL-git/Kurin?style=for-the-badge&label=Версія)](https://github.com/GGL-git/Kurin/releases/latest)
 [![GitHub all releases](https://img.shields.io/github/downloads/GGL-git/Kurin/total?style=for-the-badge&color=00B000&label=Завантажень)](https://github.com/GGL-git/Kurin/releases/)
-[![Static Badge](https://img.shields.io/badge/total_games-277-blue?style=for-the-badge&label=Кількість%20ігор)](https://github.com/GGL-git/Kurin/blob/main/GAME%20LIST.txt)
+[![Static Badge](https://img.shields.io/badge/total_games-457-blue?style=for-the-badge&label=Кількість%20ігор)](https://github.com/GGL-git/Kurin/blob/main/GAME%20LIST.txt)
 
 
 [Пряме завантаження (клацни на мене і почнеться завантаження)](https://github.com/GGL-git/Kurin/releases/download/v1.0.3/Kurin.-1.0.3.Setup.exe)
