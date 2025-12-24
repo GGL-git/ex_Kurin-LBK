@@ -3,7 +3,10 @@
 18 Wheels of Steel: Convoy
 1849
 20 Minutes Till Dawn
+60 Parsecs!
+60 Seconds!
 7 Days to Die
+7554: Glorious Memories Revived
 Антологія Doom
 A Plague Tale: Innocence
 A SECOND BEFORE US
@@ -19,9 +22,11 @@ Age of Empires II: Definitive Edition - Dynasties of India
 Age of Empires II: Definitive Edition - Lords of the West
 Age of Empires II: Definitive Edition - Return of Rome
 Age of Empires II: Definitive Edition - The Mountain Royals
+Age of Empires II: Definitive Edition - Victors and Vanquished
 Age of Empires: Definitive Edition
 Age of Mythology EX: Tale of the Dragon
 Age of Mythology: Extended Edition
+Age of Mythology: Retold
 Age of Pirates: Caribbean Tales (Corsairs III / Age of Pirates: Caribbean Tales)
 Agony UNRATED
 Alan Wake + Remastered version
@@ -47,16 +52,24 @@ Ancient Trader
 Anno 1800
 Another Crab's Treasure
 Antichamber
+Aperture Tag
 Arizona Sunshine VR
 Arizona Sunshine® - Dead Man DLC
 Arizona Sunshine® - The Damned DLC
 Assassin's Creed 2
+Assassin's Creed Brotherhood
+Assassin's Creed Freedom Cry
 Assassin's Creed IV Black Flag
 Assassin's Creed Mirage
+Assassin's Creed Origins
+Assassin's Creed Revelations
+Assassin's Creed Rogue
 Assassin's Creed Syndicate
+Assassin's Creed Unity
 Asterix & Obelix XXL: Romastered
 ASTRONEER
 Avencast: Rise of the Mage
+Awaria
 Baba is You
 Balatro
 Baldi's Basics Classic Remastered
@@ -66,34 +79,44 @@ Baldur’s Gate: Siege of Dragonspear
 Bastion
 Batman: Arkham Asylum Game of the Year Edition
 Batman: Arkham City - Game of the Year Edition
+Batman: Arkham Origins
+Battle Brothers
 Below
 Bendy And The Dark Revival
 Bendy And The Ink Machine
+Besiege
 Beyond Blue
+Beyond: Two Souls
 Bioshock Infinite
 BioShock™
 BioShock™ Remastered
 Black Mirror 2
 Black Mirror 3
+Black Reliquary
 Black The Fall
 Blair Witch
 Blasphemous
 Blazing Beaks
 Blazing Chrome
 BloodRayne: Terminal Cut
+Bloodstained: Ritual of the Night
 Borderlands Game of the Year Enhanced
 Braid
 Brick Rigs
 Bright Memory Infinite
 Brothers - A Tale of Two Sons
+Brothers: A Tale of Two Sons Remake
 Bulletstorm: Full Clip Edition
 C&C - Command & Conquer: Generals & Zero Hour
 C&C - Command & Conquer: Red Alert 2 / Yuri's Revenge
 C&C - Command & Conquer: Tiberian Dawn
 C&C - Command & Conquer: Tiberian Sun & Firestorm
 C&C - Command & Conquer™: RED ALERT REMASTERED
+C&C - Command & Conquer™: TIBERIAN DAWN REMASTERED
+Caesar 4
 Call of Cthulhu®: Dark Corners of the Earth
 Call of Duty
+Call of Duty® 2
 Call of Juarez: Gunslinger
 Call of the Sea
 Car Mechanic Simulator 2018
@@ -108,6 +131,7 @@ Chants of Sennaar
 Chaser
 Choo-Choo Charles
 Chrono Trigger
+Chronos: Before the Ashes
 Cities: Skylines
 City of Brass
 Civilization: Beyond Earth
@@ -120,7 +144,10 @@ Commandos 3
 Conarium
 Condemned: Criminal Origins
 Control Ultimate Edition
+Counter-Strike: Condition Zero
+Crash Bandicoot™ 4: It's About Time
 Crea
+Creatures of Ava
 CRISIS CORE –FINAL FANTASY VII– REUNION
 Crusader Kings II
 Crusader Kings III
@@ -133,24 +160,28 @@ Crysis Remastered
 Crysis Warhead®
 Cult of the Lamb
 Cuphead
+Danganronpa: Trigger Happy Havoc
 Dark Messiah of Might & Magic
 Dark Souls II
 Dark Souls II: Scholar of the First Sin
 Dark Souls III The Ringed City DLC
 Dark Souls: Remastered
-Darkest Dungeon
 Darksiders 2: Deathinitive edition
+Darksiders Genesis
 Darksiders III
 Darksiders Warmastered Edition
 Darkwood
 Daylight
 Daymare: 1998
 Days Gone
+Dead Island 2
 Dead Space (2008)
 Dead Space (2023)
 Dead Space 2
+Dead Space 3
 Deadbolt
 Deadlight
+Deadpool
 Dear Esther: Landmark Edition
 Death's Door
 Deathmatch Classic
@@ -162,7 +193,10 @@ Detention
 Detroit: Become Human
 Devil May Cry 3: Special Edition
 Devil May Cry 5
+Disco Elysium - The Final Cut
+Dishonored
 Dispatch
+DISTRAINT 2
 DISTRAINT: Deluxe Edition
 Divine Divinity
 Divinity: Original Sin (Classic)
@@ -171,6 +205,7 @@ DmC: Devil May Cry
 Doki Doki Literature Club Plus!
 Doki Doki Literature Club!
 Donut County
+DOOM + DOOM II
 Door Kickers: Action Squad
 Downwell
 Dragon Age: Origins
@@ -180,6 +215,7 @@ DreadOut
 DREDGE
 Driv3r
 Driver® Parallel Lines
+Drova - Forsaken Kin
 Duck Tales: Remastered
 Duke Nukem 3D: 20th Anniversary World Tour
 Duke Nukem Forever
@@ -187,9 +223,12 @@ Duke Nukem's Bulletstorm Tour
 Dungeon of the ENDLESS
 Dungeons 3
 Dust: An Elysian Tail
+Dying Light
+Dyson Sphere Program
 EARTH DEFENSE FORCE 4.1 The Shadow of New Despair
 El Matador
 Elden Ring
+ELDEN RING Shadow of the Erdtree
 Electrician Simulator
 Electrician Simulator - Smart Devices
 ENA: Dream BBQ
@@ -200,21 +239,30 @@ EVERSPACE™
 EVERSPACE™ - Encounters
 Evoland Legendary Edition
 F.E.A.R.
+F.E.A.R. 2: Project Origin
 Fable - The Lost Chapters
 FAITH: The Unholy Trinity
 Fallout 2
+Fallout 3: Game of the Year Edition
+Fallout 4 - Contraptions Workshop
+Fallout 4 - Creation Club
+Fallout 4 - Wasteland Workshop
+Fallout 4 Automatron
+Fallout 4 Far Harbor
+Fallout 4 Nuka-World
+Fallout 4 Vault-Tec Workshop
 Fallout New Vegas: Dead Money
 Fallout New Vegas: Honest Hearts
 Fallout New Vegas: Lonesome Road
 Fallout New Vegas: Old World Blues
-Fallout Tactics: Brotherhood of Steel
-Fallout: A Post Nuclear Role Playing Game
 Fallout: New Vegas
 Far Cry
+Far Cry 2
 Far Cry 3
 Far Cry 3 Blood Dragon
 Far Cry 4
 Far Cry Primal
+Far Cry® 5
 Faraway: Arctic Escape
 Faraway: Jungle Escape
 Faraway: Puzzle Escape
@@ -229,10 +277,12 @@ Final Fantasy III (3D Remake)
 Final Fantasy IV
 Final Fantasy IV (3D Remake)
 Final Fantasy IV: After Years (3D Remake)
+FINAL FANTASY IX
 Final Fantasy V
-FINAL FANTASY VII REBIRTH
+FINAL FANTASY VI
 Final Fantasy VII Remake Intergrade
 Fire and Steel
+Firestarter
 Firewatch
 First Class Trouble
 Five Nights at Freddy's: Secret of the Mimic
@@ -240,6 +290,7 @@ Five Nights at Freddy's: Security Breach
 Five Nights at Freddy's: Security Breach - Ruin
 FlatOut
 FlatOut 2
+FlatOut: Ultimate Carnage Collector's Edition
 Florence
 For The King
 Forager
@@ -249,14 +300,20 @@ Forgotten Hill Mementoes
 Forgotten Hill Tales
 Fran Bow
 Fresh Start Cleaning Simulator
+Frogmonster
+FRONT MISSION 2: Remake
 Frostpunk
+Furi
 Galaxy on Fire 2™ Full HD
 Game of Thrones: Kingsroad
 Gang Beasts
 Garbanzo Quest
 Garfield Kart - Furious Racing
 Getting Over It with Bennet Foddy
+Ghost of a Tale
 Gloomwood
+Goat Simulator 3
+God of War
 Golf Club Nostalgia
 Gothic
 Grand Theft Auto
@@ -264,9 +321,11 @@ Grand Theft Auto III
 Grand Theft Auto: San Andreas
 Grand Theft Auto: San Andreas – The Definitive Edition
 Grand Theft Auto: Vice City
+Grand Theft Auto: Vice City – The Definitive Edition
 Green Hell
 Grim Fandango
 GRIS
+Grounded
 Guns, Gore & Cannoli
 Gwent
 Hades
@@ -279,28 +338,41 @@ Half-Life: Blue Shift
 Half-Life: Opposing Force
 Half-Life: Source
 Hard West 2
+Harry Potter and the Chamber of Secrets
+Harry Potter and the Prisoner of Azkaban
 Hatred
+Heavy Fire: Afghanistan
+Heavy Fire: Shattered Spear
 Heavy Rain
+Hell Let Loose
 Hellblade: Senua's Sacrifice
 Helltaker
 Herdling
 Heretic + Hexen
 Heroes of Annihilated Empires
+Heroes of Might and Magic II: Gold
 Heroes of Might and Magic III: Complete edition
+Heroes of Might and Magic V
+Heroes of Might and Magic V: Hammers of Fate
+Heroes of Might and Magic V: Tribes of the East
 Hi-Fi Rush
 Hidden & dangerous 2: courage under fire
 High On Life
 Highwater
 Higurashi When They Cry Hou - Ch.1 Onikakushi
 Higurashi When They Cry Hou - Ch.2 Watanagashi
+Hitman: Blood Money
 Hitman: Codename 47
 Hogwarts Legacy
+Hogwarts Legacy: Dark Arts Pack
 Hollow Knight
 Hollow Knight: Silksong
 Homeworld Remastered Collection
+Homicipher
 Horizon Zero Dawn™ Complete Edition
 Hotline Miami
 Hotline Miami 2: Wrong Number
+https://ggl-storage.ams3.cdn.digitaloceanspaces.com/kurin'/community/Need%20for%20Speed_%20Most%20Wanted/exe/Need%20for%20Speed%20Most%20Wanted%20-%20Ukrainian.exe
 Hue
 I Am Alive
 I Am Fish
@@ -309,11 +381,12 @@ ICARUS
 Ice Age Scrat's Nutty Adventure
 Immortals Fenyx Rising
 Imperator: Rome
+In Sound Mind
 inbento
-Industria
 Infernax
 Inscryption
 INSIDE
+Instinct
 Iris.Fall
 ISLANDERS
 Isonzo
@@ -342,6 +415,7 @@ Layers of Fear: Inheritance DLC
 LEGO Batman 2 DC Super Heroes
 LEGO® Batman™: The Videogame
 LEGO® Builder's Journey
+LEGO® Pirates of the Caribbean: The Video Game
 Lethal Company
 Liar's Bar
 Lies Of P
@@ -350,14 +424,25 @@ Life is Strange - Episode 2
 Life is Strange - Episode 3
 Life is Strange - Episode 4
 Life is Strange - Episode 5
+Life is Strange Before the Storm
+Life is Strange Remastered
+Life is Strange: True Colors
+Like a Dragon: Pirate Yakuza in Hawaii
 Limbo
 Limbus Company
 Little Misfortune
 Little Nightmares
 Little Nightmares II
+Little Witch Nobeta
+Lobotomy Corporation
 LOLLIPOP CHAINSAW RePOP
+Lorelai
+Lost in Random
 Lost Ruins
 Lucius
+Lushfoil Photography Sim
+Mad Max
+Made in Abyss: Binary Star Falling into Darkness
 Mafia
 Mafia II
 Mafia II: Definitive Edition
@@ -365,16 +450,19 @@ Maneater
 Manhunt
 Manhunt 2
 Martial Law
+Marvel's Spider-Man Remastered
 Max Payne 2
 Mechanism
 Medal of Honor: Allied Assault
 METAL GEAR RISING: REVENGEANCE
+Microsoft Flight Simulator 2004: A Century Of Flight
+Might & Magic X - Legacy
+Mini Ninjas
 Mirror's Edge™
 MO:Astray
 Monstrum
 Monument Valley
 Monument Valley 2
-Moonlighter
 Moonlighter: Between Dimensions
 Moons of Madness
 Mortal Kombat 1
@@ -382,23 +470,30 @@ Mortal Shell
 Mount & Blade II: Bannerlord
 Mount & Blade: Warband
 Mount & Blade: With Fire & Sword
+Moving Out
+Moving Out - Movers in Paradise
 MudRunner
 Munchkin Digital
 Mundaun
+Mutant Year Zero: Road to Eden
 My Friend Pedro
 My Summer Car
 Near Death
 Need for Speed: Carbon
 Need for Speed: High Stakes
-Need for Speed: Most Wanted
 Need for Speed: Underground
 Need for Speed: Underground 2
 Neighbours back From Hell
 Neighbours from Hell Compilation
+Neon White
+Neva
+New Cycle
 NieR:Automata™
 Nighmare of Decay
+Nightingale
 Nine Parchments
 No Man's Sky
+No One Lives Forever 2: A Spy in H.A.R.M.'s Way
 Noita
 Nosferatu: The Wrath of Malachi
 Nubarron: The adventure of an unlucky gnome
@@ -408,12 +503,14 @@ Oceanhorn: Monster of Uncharted Seas
 Omori
 One Hand Clapping
 OneShot
+Orebound
 Ori and the Will of the Wisps
 Orphan
 Out of Line
 Outlast
 Outlast 2
 Outlast: Whistleblower DLC
+Outward Definitive Edition
 Overlord
 Overlord II
 Overlord: Raising Hell
@@ -422,6 +519,7 @@ Painkiller: Black Edition
 Palworld
 Panzer Dragoon: Remake
 Patron
+PayDay 2
 PEAK
 Penumbra: Black Plague Gold Edition
 Penumbra: Overture
@@ -429,6 +527,7 @@ Pharaoh: A New Era
 Pineview Drive
 Pizza Tower
 Planescape: Torment: Enhanced Edition
+PLANET ALPHA
 Planetbase
 POOOOL
 Portal
@@ -443,9 +542,9 @@ Prey (2006)
 Prey (2017)
 Prince of Persia: The Lost Crown
 Project Freedom
-Psychonauts 2
 Pumpkin Jack
 PUMPKIN PANIC
+Puzzle Agent
 Q.U.B.E. 2
 qomp
 Quake 4
@@ -454,6 +553,7 @@ Quake Remastered
 Quantum Break
 Quest for Glory: So You Want to Be a Hero
 Quiplash 2 InterLASHional
+R.E.P.O.
 Raft
 Rage
 Rage - The Scorchers DLC
@@ -461,6 +561,8 @@ Ranch Simulator: Build, Hunt, Farm
 Ravenous Devils
 Ravenswatch
 Rayman Origins
+Rayman® Legends
+Ready or Not
 Red Dead Redemption 2
 Reignfall
 Relicta
@@ -476,6 +578,7 @@ Resident Evil 0
 Resident Evil 2
 Resident Evil 3
 Resident Evil 4
+Resident Evil 4 - Separate Ways
 Resident Evil 7: Biohazard
 Resident Evil 7: Biohazard - Banned Footage Vol.1 DLC
 Resident Evil 7: Biohazard - Banned Footage Vol.2 DLC
@@ -499,10 +602,13 @@ Sable
 Sacred Gold
 Saints Row: Gat out of Hell
 Sally Face
+SANABI
 Sanctum 2
 Schedule I
 SCP: Secret Laboratory
 Scrap Mechanic
+Scum
+Sea of Stars
 Sekiro: Shadows Die Twice
 Serious Sam 2
 Serious Sam 4
@@ -512,14 +618,18 @@ Serious Sam HD: The Second Encounter - Serious 8 DLC
 Serious Sam: The First Encounter (+HD version)
 Serious Sam: The Second Encounter (+HD)
 Severed Steel
+Shadow of the Tomb Raider: Definitive Edition
 Shadow Tactics: Blades of the Shogun
 Shadow Warrior
 She Remembered Caterpillars
 Sheepy: A Short Adventure
 Shinobi: Art of Vengeance
 Sid Meier's Civilization V
+Sid Meier's Civilization® III Complete
+Sid Meier's Civilization® VI
 Sid Meier's Pirates!
 Sifu
+SIGNALIS
 Silent Hill 2 (2003)
 Silent Hill 3
 Silent Hill 4: The Room
@@ -531,6 +641,8 @@ Sins of a Solar Empire: Rebellion - Minor Factions DLC
 Sins of a Solar Empire: Rebellion - Outlaw Sectors™ DLC
 Sins of a Solar Empire: Rebellion - Stellar Phenomena®
 Slay the Princess — The Pristine Cut
+Slender: The Arrival
+Slime Rancher
 Snake Pass
 Snakebird Complete
 Sniper Elite V2
@@ -553,7 +665,13 @@ Spelunky
 Sphinx and the Cursed Mummy
 Spirit of the North
 Splinter Cell
+Split Fiction
+SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated
 Spooky's Jump Scare Mansion
+Spore
+SPRAWL
+Spyro™ Reignited Trilogy
+Squirreled Away
 Star Wars Galactic Battlegrounds SAGA
 STAR WARS Jedi: Fallen Order™
 STAR WARS Jedi: Survivor™
@@ -566,14 +684,17 @@ SteamWorld Dig
 SteamWorld Dig 2
 Stick Fight: The Game
 Still There
+Stories Untold
 Stranded Deep
 Stray
+Streets of Rogue
 Stronghold 2
 Stronghold: Definitive Edition
 Styx: Master of Shadows
 Styx: Shards of Darkness
 Super Bunny Man
 Super Ledgehop: Double Laser
+SUPERHOT
 SUPERHOT: MIND CONTROL DELETE
 Supreme Commander
 Supreme Commander: Forged Alliance
@@ -584,12 +705,14 @@ Syberia II
 Syberia Remastered
 System shock (Remake)
 System Shock 2: 25th Anniversary Remaster
+Tails of Iron
 Tales From Windy Meadow
 Tandem: A Tale of Shadows
+Tannenberg
 Tavern Master
-Terminator: Resistance
-Terminator: Resistance Annihilation Line
+Taxi Life: A City Driving Simulator
 Terminus: Zombie Survivors
+Test Drive Unlimited
 That's not my Neighbor
 The Banner Saga 3
 The Beast Inside
@@ -603,13 +726,22 @@ The Dark Pictures Anthology: House of Ashes
 The Dark Pictures Anthology: Man of Medan
 The Darkness II
 The Elder Scrolls Adventures: Redguard
+The Elder Scrolls III: Morrowind
 The Elder Scrolls IV: Oblivion
 The Elder Scrolls IV: Oblivion Remastered
 The Elder Scrolls V: Skyrim
+The Elder Scrolls: Daggerfall Unity
 The Escapists 2
+The Escapists 2 - Big Top Breakout
+The Escapists 2 - Dungeons and Duct Tape
+The Escapists 2 - Glorious Regime Prison
+The Escapists 2 - Wicked Ward
 The Evil Within
 The Evil Within 2
+The Expanse: A Telltale Series
+The Fabled Woods
 The Fall
+The First Berserker: Khazan
 The Forest
 The Forest Quartet
 The Gunk
@@ -617,8 +749,11 @@ The Henry Stickmin Collection
 The Jackbox Party Pack 3
 The Jackbox Party Pack 4
 The Jackbox Party Pack 6
+The Jackbox Party Pack 7
 The Jackbox Party Pack 9
 The Jackbox Party Starter
+The Last Campfire
+The Last Plague: Blight
 The Long Drive
 The Lord of the Rings: The Battle for Middle-earth
 The Medium
@@ -632,12 +767,16 @@ The Precinct
 The Ramp
 The Room
 The Saboteur
+The Settlers : Heritage of Kings
+The Settlers 7: Paths to a Kingdom
+The Settlers: Rise of an Empire
 The Shore
 The Simpsons Hit & Run
 The Sims 3
 The Sims 4
 The Spectrum Retreat
 The Stillness of the Wind
+The Swapper
 The Vanishing of Ethan Carter
 The Vanishing of Ethan Carter Redux
 The Walking Dead
@@ -648,7 +787,6 @@ The Witcher 3 - Wild Hunt
 The Witcher 3 - Wild Hunt - Blood and Wine DLC
 The Witcher 3 - Wild Hunt - Hearts of Stone DLC
 The Witcher: Enhanced Edition
-The Wolf Among Us
 The Works of Mercy
 Thief
 Thief Simulator
@@ -667,11 +805,14 @@ Tomb Raider
 Torchlight 2
 Tormented Souls
 Total War: EMPIRE – Definitive Edition
+Total War: NAPOLEON
 Total War: NAPOLEON – Definitive Edition
 Total War: SHOGUN 2
 Total War: THREE KINGDOMS
 Totally Accurate Battle Simulator
 Touhou 11: Chireiden - Східний палац земних духів
+Touhou Luna Nights
+Towers of Aghasba
 Transference
 Tricky Towers
 Trine 2: Complete Story
@@ -688,6 +829,7 @@ ULTRAKILL
 Under The Waves
 Undertale
 Unpacking
+Unrailed 2: Back on Track
 VA-11 Hall-A KIDS!
 Valiant Hearts: Coming Home
 Valiant Hearts: The Great War
@@ -696,18 +838,34 @@ Vampire Survivors: Emergency Meeting
 Vampire Survivors: Legacy of the Moonspell
 Vampire Survivors: Tides of the Foscari
 Vane
+Verdun
 Victoria 3
 Virginia
+Vivisector: Beast Within
 Voices of the Void
+Void Bastards
 Warcraft 3 Reforged
+Warcraft I: Remastered
 Warcraft II: Battle.net Edition
+Warcraft II: Remastered
 WarCraft III Reign of Chaos
+Warcraft: Orcs & Humans
 Warhammer 40,000: Dawn of War - Definitive Edition
+Warhammer® 40,000: Dawn of War®
 Warhammer® 40,000: Dawn of War® – Winter Assault
+Warlords IV: Heroes of Etheria
+Wartales
+Watch_Dogs - Bad Blood
+Watch_Dogs® 2
+Watch_Dogs™
+We Happy Few
 We Were Here Expeditions: The FriendShip
+We Were Here Forever
 We Were Here Together
+We Were Here Too
 Webbed
 What Remains of Edith Finch
+Where Winds Meet
 Windbound
 Witchfire
 Wolfenstein (2009)
@@ -715,14 +873,15 @@ Wolfenstein: The New Order
 Wolfenstein: The Old Blood
 Wonder Boy The Dragon's Trap
 WORLD OF HORROR
+World of Warcraft
 WUCHANG: Fallen Feathers
 XCOM 2
 XIII - Classic
 Yakuza 0
 Yes, Your Grace
 Yoku's Island Express
+You Are Empty
 Ys I & II Chronicles+
 Yume Nikki
 ZanZarah: The Hidden Portal
 Zeno Clash
-
