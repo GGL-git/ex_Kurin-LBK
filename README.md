@@ -38,7 +38,7 @@ LBK Launcher (ex. Kurin`) використовує такі технології
 Тоді ви спокійно можете написати нам у телеграм-бот. 
 > Пишіть про проблеми, про погане та добре, запропонуйте власну кандидатуру у команду чи просто дайте нам поради - усіх почуємо та відповімо.
 
-[![Static Badge](https://img.shields.io/badge/to-telegram-green?style=for-the-badge&label=Написати%20нам)](https://t.me/kurin_sup_bot)
+[![Static Badge](https://img.shields.io/badge/to-telegram-green?style=for-the-badge&label=Написати%20нам)](https://t.me/lbk_launcher)
 
 ---
 
