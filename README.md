@@ -1,12 +1,12 @@
 # <img width="25" height="25" alt="icon" src="https://github.com/user-attachments/assets/16df8440-7d25-4a67-aee4-4e259b44248c" /> LBK Launcher (ex. Kurin`) — місце, де ігри говорять українською
 
-[![GitHub release](https://img.shields.io/github/v/release/GGL-git/Kurin?style=for-the-badge&label=Версія)](https://github.com/GGL-git/Kurin/releases/latest)
-[![GitHub all releases](https://img.shields.io/github/downloads/GGL-git/Kurin/total?style=for-the-badge&color=00B000&label=Завантажень)](https://github.com/GGL-git/Kurin/releases/)
+[![GitHub release](https://img.shields.io/github/v/release/Vadko/littlebit-launcher?style=for-the-badge&label=Версія)](https://github.com/GGL-git/Kurin/releases/latest)
+[![GitHub all releases](https://img.shields.io/github/downloads/Vadko/littlebit-launcher/total?style=for-the-badge&color=00B000&label=Завантажень)](https://github.com/GGL-git/Kurin/releases/)
 [![Static Badge](https://img.shields.io/badge/total_games-887-blue?style=for-the-badge&label=Кількість%20ігор)](https://github.com/GGL-git/Kurin/blob/main/GAME%20LIST.txt)
 
 ---
 
-[![Static Badge](https://img.shields.io/badge/download-blue?style=for-the-badge&label=Завантажити%20сервіс)](https://github.com/GGL-git/Kurin/releases/latest)
+[![Static Badge](https://img.shields.io/badge/download-blue?style=for-the-badge&label=Завантажити%20сервіс)](https://github.com/Vadko/littlebit-launcher/releases/latest)
 
 ---
 
